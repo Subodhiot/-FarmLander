@@ -2,7 +2,6 @@
   <library name="Gradle: com.google.firebase:firebase-encoders-json:17.1.0@aar">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3e0ef652bb0562e585f3937c70108b8a/transformed/firebase-encoders-json-17.1.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3e0ef652bb0562e585f3937c70108b8a/transformed/firebase-encoders-json-17.1.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3e0ef652bb0562e585f3937c70108b8a/transformed/firebase-encoders-json-17.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
